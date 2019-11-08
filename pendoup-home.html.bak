@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+		<head>
+			<title>PendoUP HOMEPAGE</title>
+			
+		</head>
+		
+		<body>
+			<h4>Landing Page Semplificata</h4>
+			
+			<h4><a href="pendoup-pendopage.html">LOGIN</a></h4>
+				
+			<h4><a href="pendoup-datipendolare.html">Registrati</a></h4>
+			
+			<h4>Banner per newsletter</h4>
+		</body>
+</html>

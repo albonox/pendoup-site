@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+		<head>
+			<title>PendoUP ATTIVITA</title>
+			
+		</head>
+		
+		<body>
+			<div>
+			
+			<h4><a href="html/pendoup-pendopage.html">LOGIN</a></h4>
+				
+			<h4><a href="html/pendoup-datipendolare.html">Registrati</a></h4>
+			
+			<h4>Banner per newsletter</h4>
+		</body>
+</html>
